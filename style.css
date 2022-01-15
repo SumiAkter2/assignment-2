@@ -3,7 +3,7 @@
     padding: 0;
 }
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Acme&family=Anton&family=Luxurious+Roman&family=Oswald:wght@400;500&family=Poppins:wght@500&family=Source+Code+Pro:wght@600&display=swap');
-/*---------- nav ---------------*/
+/*---------- ------------------------nav ----------------------------------------------------------*/
 
 nav{
     display: flex;
@@ -18,6 +18,46 @@ nav{
 .title-bar a{
     margin-right: 20px;
 }
+/*-------------------------------------------- header------------------------------ */
+.header-title{
+    font-size: 20px;
+   padding-top: 150px;
+    margin-left: 243px;
+
+    width: 50%;
+}
+h1{
+font-size: 40px;
+
+
+}
+p{
+    font-size: 15px;
+   padding-bottom: 20px;
+}
+/*------------------------------- header-img----------------------------------------------- */
+.head-img{
+width: 50%;
+margin-right: 150px;
+padding-top: 50px;
+}
+
+header{
+    display: flex;
+  
+}
+/*------------------------------------------- button------------------------------------ */
+.Follow-button{
+    background-color:#E02C6D;
+    border-radius: 20px;
+    padding: 20px;
+    color:#FFFFFF
+}
+.fas-fa-arrow-right{
+    background-color: #FFFFFF;
+}
+
+/* ------------------------commom area------------------------------------------- */
 body{
     font-family: 'Poppins', sans-serif;
 }

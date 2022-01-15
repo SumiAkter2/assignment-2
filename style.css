@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Acme&family=Anton&family=Luxurious+Roman&family=Oswald:wght@400;500&family=Poppins:wght@500&family=Source+Code+Pro:wght@600&display=swap');
+/*---------- nav ---------------*/
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 52px;
+    margin-left: 243px;
+}
+.title-bar{
+    margin-right: 243px;
+
+}
+.title-bar a{
+    margin-right: 20px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
